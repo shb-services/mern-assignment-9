@@ -1,0 +1,227 @@
+{
+    "Studen_info" : [
+        {
+            "Id" : 1,
+            "Name" : "Shahab",
+            "Roll" : 30,
+            "Department" : "Bangla",
+            "Address" : "Baniyachong",
+            "Age" : 50,
+            "Skill" : "Js Developer",
+            "Foods" : ["Alu","Pottol","Begun","Morich","Peyaj"],
+            "Marks" : {
+                "Bn" : 67,
+                "En" : 80,
+                "Matn" : 90
+            }
+        },
+        {
+            "Id" : 2,
+            "Name" : "Rubel",
+            "Roll" : 20,
+            "Department" : "Managment",
+            "Address" : "Dhaka Uttora",
+            "Age" : 45,
+            "Skill" : "Js Developer",
+            "Foods" : ["Alu","Pottol","Begun","Morich","Peyaj"],
+            "Marks" : {
+                "Bn" : 67,
+                "En" : 80,
+                "Matn" : 90
+            }
+        },
+        {
+            "Id" : 3,
+            "Name" : "Raza",
+            "Roll" : 20,
+            "Department" : "English",
+            "Address" : "Nowakhali",
+            "Age" : 85,
+            "Skill" : "Js Developer",
+            "Foods" : ["Alu","Pottol","Begun","Morich","Peyaj"],
+            "Marks" : {
+                "Bn" : 67,
+                "En" : 80,
+                "Matn" : 90
+            }
+        },
+        {
+            "Id" : 4,
+            "Name" : "Razzak",
+            "Roll" : 15,
+            "Department" : "Managment",
+            "Address" : "Cumilla",
+            "Age" : 35,
+            "Skill" : "Js Developer",
+            "Foods" : ["Alu","Pottol","Begun","Morich","Peyaj"],
+            "Marks" : {
+                "Bn" : 67,
+                "En" : 80,
+                "Matn" : 90
+            }
+        },
+        {
+            "Id" : 5,
+            "Name" : "Faisal",
+            "Roll" : 18,
+            "Department" : "English",
+            "Address" : "Dhaka",
+            "Age" : 45,
+            "Skill" : "Js Developer",
+            "Foods" : ["Alu","Pottol","Begun","Morich","Peyaj"],
+            "Marks" : {
+                "Bn" : 67,
+                "En" : 80,
+                "Matn" : 90
+            }
+        },
+        {
+            "Id" : 6,
+            "Name" : "Istiak",
+            "Roll" : 10,
+            "Department" : "Social",
+            "Address" : "Rangpur",
+            "Age" : 25,
+            "Skill" : "Js Developer",
+            "Foods" : ["Alu","Pottol","Begun","Morich","Peyaj"],
+            "Marks" : {
+                "Bn" : 67,
+                "En" : 80,
+                "Matn" : 90
+            }
+        },
+        {
+            "Id" : 7,
+            "Name" : "Kabir",
+            "Roll" : 40,
+            "Department" : "Bangla",
+            "Address" : "Rajshahi",
+            "Age" : 35,
+            "Skill" : "PHP Developer",
+            "Foods" : ["Alu","Pottol","Begun","Morich","Peyaj"],
+            "Marks" : {
+                "Bn" : 67,
+                "En" : 80,
+                "Matn" : 90
+            }
+        },
+        {
+            "Id" : 8,
+            "Name" : "Rohim",
+            "Roll" : 9,
+            "Department" : "Managment",
+            "Address" : "Dhaka",
+            "Age" : 32,
+            "Skill" : "Python Developer",
+            "Foods" : ["Alu","Pottol","Begun","Morich","Peyaj"],
+            "Marks" : {
+                "Bn" : 67,
+                "En" : 80,
+                "Matn" : 90
+            }
+        },
+        {
+            "Id" : 9,
+            "Name" : "Abdullah",
+            "Roll" : 5,
+            "Department" : "Math",
+            "Address" : "Dinajpur",
+            "Age" : 23,
+            "Skill" : "Laravel Developer",
+            "Foods" : ["Alu","Pottol","Begun","Morich","Peyaj"],
+            "Marks" : {
+                "Bn" : 67,
+                "En" : 80,
+                "Matn" : 90
+            }
+        },
+        {
+            "Id" : 10,
+            "Name" : "Sabbir",
+            "Roll" : 6,
+            "Department" : "Managment",
+            "Address" : "Sylet",
+            "Age" : 50,
+            "Skill" : "PHP Developer",
+            "Foods" : ["Alu","Pottol","Begun","Morich","Peyaj"],
+            "Marks" : {
+                "Bn" : 67,
+                "En" : 80,
+                "Matn" : 90
+            }
+        }
+    ],
+
+    "teacher_info" : [
+        {
+            "ID" : 1,
+            "Name" : "Rofikul",
+            "Skill" : "Professional Js Developer",
+            "Age" : 26,
+            "Address" : "Bandorban"
+        },
+        {
+            "ID" : 2,
+            "Name" : "Ripon",
+            "Skill" : "Professional Ecommerce specialist",
+            "Age" : 34,
+            "Address" : "Cumilla"
+        },
+        {
+            "ID" : 3,
+            "Name" : "Sohel",
+            "Skill" : "Professional Wordpress Developer",
+            "Age" : 39,
+            "Address" : "Dhaka Uttora"
+        },
+        {
+            "ID" : 4,
+            "Name" : "Roni",
+            "Skill" : "Professional PHP Developer",
+            "Age" : 23,
+            "Address" : "Dhaka"
+        },
+        {
+            "ID" : 5,
+            "Name" : "Jibon",
+            "Skill" : "Professional laravel Developer",
+            "Age" : 55,
+            "Address" : "Dinajpur"
+        },
+        {
+            "ID" : 6,
+            "Name" : "Yeasin",
+            "Skill" : "Professional Js Developer",
+            "Age" : 25,
+            "Address" : "Sylet"
+        },
+        {
+            "ID" : 7,
+            "Name" : "Sojibur Rahman",
+            "Skill" : "Professional PHP Developer",
+            "Age" : 28,
+            "Address" : "Rangpur"
+        },
+        {
+            "ID" : 8,
+            "Name" : "Rohim",
+            "Skill" : "Professional MERN Developer",
+            "Age" : 32,
+            "Address" : "Rajshahi"
+        },
+        {
+            "ID" : 9,
+            "Name" : "Korim",
+            "Skill" : "Professional Python Developer",
+            "Age" : 52,
+            "Address" : "Nowakhali"
+        },
+        {
+            "ID" : 10,
+            "Name" : "Dulal",
+            "Skill" : "Professional PHP Developer",
+            "Age" : 45,
+            "Address" : "Dhaka Mirpur"
+        }
+    ]
+}
